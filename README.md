@@ -1,5 +1,8 @@
 # flutter_shrine
 
+![Preview Image](./preview.png)
+
+
 Material Structure and Layout
 
 ## Getting Started
